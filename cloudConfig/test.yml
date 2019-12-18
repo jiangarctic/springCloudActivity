@@ -11,3 +11,8 @@ eureka:
     register-with-eureka: true
 message:
   value: jiangwandong
+management:
+  endpoints:
+    web:
+      exposure:
+        include: refresh,health,info
