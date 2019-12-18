@@ -10,7 +10,7 @@ eureka:
     fetch-registry: true
     register-with-eureka: true
 message:
-  value: jiangwandong
+  value: jiangwandong 123
 management:
   endpoints:
     web:
